@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiKalra/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SrishtiKalra/Leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SrishtiKalra/Leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SrishtiKalra/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
