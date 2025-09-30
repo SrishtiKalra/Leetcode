@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SrishtiKalra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SrishtiKalra/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
