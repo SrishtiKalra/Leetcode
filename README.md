@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/SrishtiKalra/Leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
