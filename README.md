@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 ## String
@@ -45,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
 | [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
