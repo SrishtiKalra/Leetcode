@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiKalra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
+| [0394-decode-string](https://github.com/SrishtiKalra/Leetcode/tree/master/0394-decode-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrishtiKalra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/SrishtiKalra/Leetcode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SrishtiKalra/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SrishtiKalra/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
