@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/SrishtiKalra/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SrishtiKalra/Leetcode/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SrishtiKalra/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
 ## Math
@@ -68,5 +70,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3881-minimize-maximum-component-cost](https://github.com/SrishtiKalra/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SrishtiKalra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
