@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/SrishtiKalra/Leetcode/tree/master/1249-snapshot-array) |
+| [3881-minimize-maximum-component-cost](https://github.com/SrishtiKalra/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Design
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SrishtiKalra/Leetcode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/SrishtiKalra/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
+## Graph
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/SrishtiKalra/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
+## Sorting
+|  |
+| ------- |
+| [3881-minimize-maximum-component-cost](https://github.com/SrishtiKalra/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 <!---LeetCode Topics End-->
